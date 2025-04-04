@@ -1,4 +1,4 @@
-package com.example.uplearn.ui.theme.RoomDB
+package com.example.uplearn.DataLayer
 
 enum class SortType {
     USER_NAME,
